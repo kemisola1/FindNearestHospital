@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Lagos University Teaching Hospital",
+    "latitude": 6.453056,
+    "longitude": 3.395833,
+    "address": "University Hospital Rd Ishaga"
+  },
+  {
+    "id": 2,
+    "name": "Hospital Lekki Epe Lagos",
+    "latitude": 6.583333,
+    "longitude": -3.983333,
+    "address": "Epe, Lagos"
+  }
+]
